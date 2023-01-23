@@ -1,4 +1,4 @@
-### Hi there
+### About me
 
 ```kotlin
 val ipalermo = developer {
