@@ -4,7 +4,7 @@
 val ipalermo = developer {
     about {
         name = "Ignacio Palermo"
-        company = TBA
+        company = Nutmeg
         role = Senior_Android_Engineer
     }
     tech("Android", "Kotlin", "Java")
