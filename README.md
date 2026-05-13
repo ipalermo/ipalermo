@@ -4,9 +4,9 @@
 val ipalermo = developer {
     about {
         name = "Ignacio Palermo"
-        company = Nutmeg
+        company = "JPMorgan Personal Investments"
         role = Senior_Android_Engineer
     }
-    tech("Android", "Kotlin", "Java")
+    tech("Android", "Kotlin")
 }
 ```
